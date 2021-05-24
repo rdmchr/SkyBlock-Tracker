@@ -1,0 +1,15 @@
+{
+  "name": "Jibril",
+  "version": "1.0.0",
+  "description": "A Hypixel SkyBlock logger",
+  "main": "src/index.js",
+  "author": "radmacher.club",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@supabase/supabase-js": "^1.11.14",
+    "dotenv": "^10.0.0",
+    "node-cron": "^3.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}
